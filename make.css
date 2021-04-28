@@ -1,0 +1,94 @@
+#faculty{
+    background: url(b3.jpg);
+}
+.main{
+    width: 800px;
+    height: 150vh;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    background: url(b3.jpg);
+}
+.main-text{
+    width: 700px;
+    margin: 50px auto 0;
+    font-size: 30px;
+}
+man-text h4{
+    margin-bottom: 25px;
+    
+}
+.swiper-container{
+    height: 650px;
+}
+.swiper-wrapper{
+    align-items: center;
+}
+.swiper-slide{
+    width: 250px;
+    height: 300px;
+    border-radius: 7px;
+
+}
+.swiper-slide img{
+    margin-top: 10px;
+    width: 700px;
+    height: 600px;
+    border-radius: 7px;
+    
+}
+
+.info{
+    width: 100%;
+    padding: 8px 0;
+    background: rgba(0, 0, 0, 0);
+    position: absolute;
+    bottom: 0;
+    text-align: justify;
+    border-radius: 0 0 5px 5 px;
+}
+.info h4{
+    font-size: 15px;
+    margin-left: 7px;
+    font-weight: 100;
+    color: #fff;
+}
+.info p{
+    font-size: 10px;
+    margin-left: 7px;
+    color: #fff;
+}
+.info a{
+    text-decoration: none;
+    margin-right: 7px;
+    color: #fff;
+    float: right;
+    margin-top: -28px;
+    border:1px solid #fff;
+    border-radius: 20px;
+    font-size: 10px;
+    padding: 2px 8px;
+}
+
+.info h4{
+    font-size: 15px;
+    margin-left: 7px;
+    font-weight: 100;
+    color: #fff;
+}
+.info p{
+    font-size: 10px;
+    margin-left: 7px;
+    color: #fff;
+}
+.info a{
+    text-decoration: none;
+    margin-right: 7px;
+    color: #fff;
+    float: right;
+    margin-top: -28px;
+    border:1px solid #fff;
+    border-radius: 20px;
+    font-size: 10px;
+    padding: 2px 8px;
+}
